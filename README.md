@@ -37,3 +37,5 @@ The goal of this project is to create an **online socialization platform** that 
 |    Krista Vlastou       |
 |     Eleni Kaspiri       |
 |     Fragkiskos Kouris   |
+## Security Notice
+For security reasons, our database credentials (SQL) are not included in the repository. If you wish to clone the repository locally or make changes, you must use your own credentials.
